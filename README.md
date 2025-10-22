@@ -48,3 +48,13 @@ OPENAI_API_KEY=your_openai_api_key_here
 
 You can get your OpenAI API key from the following URL: 
 * https://platform.openai.com/settings/organization/api-keys
+
+## How to run the project :
+```
+python main.py
+```
+
+## 👤 Author
+
+**Aman Saurabh**  
+💼 GitHub: [@aman-saurabh](https://github.com/aman-saurabh)  
